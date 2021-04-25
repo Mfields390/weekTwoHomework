@@ -1,0 +1,13 @@
+C:\Users\Mickey\source\repos\weekTwoHomework\weekTwoHomework\bin\Debug\netcoreapp3.1\weekTwoHomework.exe
+C:\Users\Mickey\source\repos\weekTwoHomework\weekTwoHomework\bin\Debug\netcoreapp3.1\weekTwoHomework.deps.json
+C:\Users\Mickey\source\repos\weekTwoHomework\weekTwoHomework\bin\Debug\netcoreapp3.1\weekTwoHomework.runtimeconfig.json
+C:\Users\Mickey\source\repos\weekTwoHomework\weekTwoHomework\bin\Debug\netcoreapp3.1\weekTwoHomework.runtimeconfig.dev.json
+C:\Users\Mickey\source\repos\weekTwoHomework\weekTwoHomework\bin\Debug\netcoreapp3.1\weekTwoHomework.dll
+C:\Users\Mickey\source\repos\weekTwoHomework\weekTwoHomework\bin\Debug\netcoreapp3.1\weekTwoHomework.pdb
+C:\Users\Mickey\source\repos\weekTwoHomework\weekTwoHomework\obj\Debug\netcoreapp3.1\weekTwoHomework.csprojAssemblyReference.cache
+C:\Users\Mickey\source\repos\weekTwoHomework\weekTwoHomework\obj\Debug\netcoreapp3.1\weekTwoHomework.AssemblyInfoInputs.cache
+C:\Users\Mickey\source\repos\weekTwoHomework\weekTwoHomework\obj\Debug\netcoreapp3.1\weekTwoHomework.AssemblyInfo.cs
+C:\Users\Mickey\source\repos\weekTwoHomework\weekTwoHomework\obj\Debug\netcoreapp3.1\weekTwoHomework.csproj.CoreCompileInputs.cache
+C:\Users\Mickey\source\repos\weekTwoHomework\weekTwoHomework\obj\Debug\netcoreapp3.1\weekTwoHomework.dll
+C:\Users\Mickey\source\repos\weekTwoHomework\weekTwoHomework\obj\Debug\netcoreapp3.1\weekTwoHomework.pdb
+C:\Users\Mickey\source\repos\weekTwoHomework\weekTwoHomework\obj\Debug\netcoreapp3.1\weekTwoHomework.genruntimeconfig.cache
